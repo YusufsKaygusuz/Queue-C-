@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Kuyruk(Queue)\bin\Debug\Kuyruk(Queue).exe.config
+C:\Users\yusuf\source\repos\Kuyruk(Queue)\bin\Debug\Kuyruk(Queue).exe
+C:\Users\yusuf\source\repos\Kuyruk(Queue)\bin\Debug\Kuyruk(Queue).pdb
+C:\Users\yusuf\source\repos\Kuyruk(Queue)\obj\Debug\Kuyruk(Queue).csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Kuyruk(Queue)\obj\Debug\Kuyruk(Queue).csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Kuyruk(Queue)\obj\Debug\Kuyruk(Queue).exe
+C:\Users\yusuf\source\repos\Kuyruk(Queue)\obj\Debug\Kuyruk(Queue).pdb
